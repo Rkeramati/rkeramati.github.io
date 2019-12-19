@@ -9,11 +9,20 @@ decision making.
 
 ## Research
 
+#### Being Optimistic to Be Conservative: Quickly Learning a CVaR Policy [[arXiv](https://arxiv.org/abs/1911.01546)]
+*To appear: AAAI 2020, New York, USA*
+
+*Ramtin Keramati*, Chris Dann, Alex Tamkin, Emma Brunskill
+
+#### Distributionally-Aware Exploration for CVaR Bandits [[pdf](/assets/pdf/CVaR_Bandit.pdf)]
+*NeurIPS 2019 : Safety and Robustness in Decision Making workshop*
+
+Alext Tamkin, *Ramtin Keramati*, Chris Dann, Emma Brunskill
+
 #### Strategic Object Oriented Reinforcement Learning [[arXiv](https://arxiv.org/abs/1806.00175)]
 *arXiv preprint arXiv:1806.00175*
 
 *Ramtin Keramati*, Jay Whang, Patrick Cho, Emma Brunskill
-
 
 #### Strategic Exploration in Object-Oriented Reinforcement Learning [[pdf](/assets/pdf/SOORL_ERL.pdf)]
 *ICML 2018: Exploration in Reinforcement Learning workshop*

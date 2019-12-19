@@ -18,7 +18,7 @@ And I think Yosemite is the best place on the earth.
 
 
  
----
+<!-- ---
 
 ### Timeline
 
@@ -45,4 +45,4 @@ And I think Yosemite is the best place on the earth.
 
 >> *2010* Gold medal of International Olympiad in Astronomy and Astrophysics
 
-> **1993** Born in [Rostamkola](https://en.wikipedia.org/wiki/Rostamkola), Mazandaran, Iran.
+> **1993** Born in [Rostamkola](https://en.wikipedia.org/wiki/Rostamkola), Mazandaran, Iran. -->
