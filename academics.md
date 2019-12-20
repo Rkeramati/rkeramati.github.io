@@ -3,38 +3,24 @@ My research mainly focuses on Reinforcement Learning (RL) under the
 supervision of [Emma Brunskill](https://cs.stanford.edu/people/ebrun/)
 in Stanford [AI for Human Impact](https://twitter.com/aiforhi?lang=en) and
 [Stanford Artificial Inteligence](http://ai.stanford.edu) Lab.
-More specifically, I study exploration-explotation trade-off in Deep RL. Also, 
-I'm interested in fairness and ethics in AI and study fariness in online 
-decision making. 
+More specifically, I study the following topics:
 
-## Research
+- Exploration-Explotation trade-off in Deep RL
+- Exploration in safe Reinforcement Learning
+- Off-policy policy evaluation
+
+# Publications
+
+## Conferences/ Journals
 
 #### Being Optimistic to Be Conservative: Quickly Learning a CVaR Policy [[arXiv](https://arxiv.org/abs/1911.01546)]
 *To appear: AAAI 2020, New York, USA*
 
 *Ramtin Keramati*, Chris Dann, Alex Tamkin, Emma Brunskill
 
-#### Distributionally-Aware Exploration for CVaR Bandits [[pdf](/assets/pdf/CVaR_Bandit.pdf)]
-*NeurIPS 2019 : Safety and Robustness in Decision Making workshop*
-
-Alext Tamkin, *Ramtin Keramati*, Chris Dann, Emma Brunskill
-
-#### Strategic Object Oriented Reinforcement Learning [[arXiv](https://arxiv.org/abs/1806.00175)]
-*arXiv preprint arXiv:1806.00175*
-
-*Ramtin Keramati*, Jay Whang, Patrick Cho, Emma Brunskill
-
-#### Strategic Exploration in Object-Oriented Reinforcement Learning [[pdf](/assets/pdf/SOORL_ERL.pdf)]
-*ICML 2018: Exploration in Reinforcement Learning workshop*
-
-*Ramtin Keramati*, Jay Whang, Patrick Cho, Emma Brunskill
-
-#### Hierarchy-Driven Exploration in Reinforcement Learning [[pdf](/assets/pdf/HRL_ERL.pdf)]
-*ICML 2018: Exploration in Reiforcement Learning workshop*
-
-Evan Liu, *Ramtin Keramati*, Kelvin Guu, Sudarshan Seshadri, Panupong Pasupat, Percy Liang and Emma Brunskill
-
 #### Value Driven Representations for Reinforcement Learning [[pdf](/assets/pdf/DVR.pdf)],[[supp](/assets/pdf/DVR_Supp)]
+User Modelling, Adaptation and Personalization (UMAP) 2019, (23% acceptance rate)
+
 *Ramtin Keramati*, Emma Brunskill
 
 #### Dynamics of the nanoneedle probe in trolling mode AFM [[link](http://iopscience.iop.org/article/10.1088/0957-4484/26/20/205702/meta)]
@@ -46,6 +32,24 @@ Ahmad Abdi, Hossein Nejat Pishkenari, *Ramtin Keramati*, Majid Minary-Jolandan
 Journal of Applied Physics
 
 Hossein Nejat Pishkenari, *Ramtin Keramati*, Ahmad Abdi, Majid Minary-Jolandan
+
+## Workshops
+
+#### Distributionally-Aware Exploration for CVaR Bandits [[pdf](/assets/pdf/CVaR_Bandit.pdf)]
+*NeurIPS 2019 : Safety and Robustness in Decision Making workshop*
+
+Alext Tamkin, *Ramtin Keramati*, Chris Dann, Emma Brunskill
+
+#### Strategic Object Oriented Reinforcement Learning [[arXiv](https://arxiv.org/abs/1806.00175)]
+*ICML 2018: Exploration in Reinforcement Learning workshop*
+
+*Ramtin Keramati*, Jay Whang, Patrick Cho, Emma Brunskill
+
+#### Hierarchy-Driven Exploration in Reinforcement Learning [[pdf](/assets/pdf/HRL_ERL.pdf)]
+*ICML 2018: Exploration in Reiforcement Learning workshop*
+
+Evan Liu, *Ramtin Keramati*, Kelvin Guu, Sudarshan Seshadri, Panupong Pasupat, Percy Liang and Emma Brunskill
+
 
 ## Teaching
 
