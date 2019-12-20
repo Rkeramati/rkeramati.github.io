@@ -11,7 +11,7 @@ More specifically, I study the following topics:
 
 
 
-## Conference/ Journal
+## Conference
 
 #### Being Optimistic to Be Conservative: Quickly Learning a CVaR Policy [[arXiv](https://arxiv.org/abs/1911.01546)]
 *To appear: AAAI 2020, New York, USA*
@@ -22,16 +22,6 @@ More specifically, I study the following topics:
 User Modelling, Adaptation and Personalization (UMAP) 2019, (23% acceptance rate)
 
 *Ramtin Keramati*, Emma Brunskill
-
-#### Dynamics of the nanoneedle probe in trolling mode AFM [[link](http://iopscience.iop.org/article/10.1088/0957-4484/26/20/205702/meta)]
-Journal of Nanotechnology
-
-Ahmad Abdi, Hossein Nejat Pishkenari, *Ramtin Keramati*, Majid Minary-Jolandan
-
-#### Molecular dynamics modeling of a nanomaterials-water surface interaction [[link](https://aip.scitation.org/doi/abs/10.1063/1.4947189)]
-Journal of Applied Physics
-
-Hossein Nejat Pishkenari, *Ramtin Keramati*, Ahmad Abdi, Majid Minary-Jolandan
 
 ## Workshop
 
@@ -50,6 +40,17 @@ Alext Tamkin, *Ramtin Keramati*, Chris Dann, Emma Brunskill
 
 Evan Liu, *Ramtin Keramati*, Kelvin Guu, Sudarshan Seshadri, Panupong Pasupat, Percy Liang and Emma Brunskill
 
+## Journal
+
+#### Dynamics of the nanoneedle probe in trolling mode AFM [[link](http://iopscience.iop.org/article/10.1088/0957-4484/26/20/205702/meta)]
+Journal of Nanotechnology
+
+Ahmad Abdi, Hossein Nejat Pishkenari, *Ramtin Keramati*, Majid Minary-Jolandan
+
+#### Molecular dynamics modeling of a nanomaterials-water surface interaction [[link](https://aip.scitation.org/doi/abs/10.1063/1.4947189)]
+Journal of Applied Physics
+
+Hossein Nejat Pishkenari, *Ramtin Keramati*, Ahmad Abdi, Majid Minary-Jolandan
 
 ## Teaching
 
