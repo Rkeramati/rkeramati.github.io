@@ -2,10 +2,10 @@
 My research mainly focuses on Reinforcement Learning (RL) under the
 supervision of [Emma Brunskill](https://cs.stanford.edu/people/ebrun/)
 in Stanford [AI for Human Impact](https://twitter.com/aiforhi?lang=en) and
-[Stanford Artificial Inteligence](http://ai.stanford.edu) Lab.
+[Stanford Artificial Intelligence](http://ai.stanford.edu) Lab.
 More specifically, I study the following topics:
 
-- Exploration-Explotation trade-off in Deep RL
+- Exploration-Exploitation trade-off in Deep RL
 - Exploration in safe Reinforcement Learning
 - Off-policy policy evaluation
 
