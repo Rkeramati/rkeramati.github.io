@@ -9,9 +9,9 @@ More specifically, I study the following topics:
 - Exploration in safe Reinforcement Learning
 - Off-policy policy evaluation
 
-# Publications
 
-## Conferences/ Journals
+
+## Conference/ Journal
 
 #### Being Optimistic to Be Conservative: Quickly Learning a CVaR Policy [[arXiv](https://arxiv.org/abs/1911.01546)]
 *To appear: AAAI 2020, New York, USA*
@@ -33,7 +33,7 @@ Journal of Applied Physics
 
 Hossein Nejat Pishkenari, *Ramtin Keramati*, Ahmad Abdi, Majid Minary-Jolandan
 
-## Workshops
+## Workshop
 
 #### Distributionally-Aware Exploration for CVaR Bandits [[pdf](/assets/pdf/CVaR_Bandit.pdf)]
 *NeurIPS 2019 : Safety and Robustness in Decision Making workshop*
