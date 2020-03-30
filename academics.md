@@ -4,17 +4,21 @@ supervision of [Emma Brunskill](https://cs.stanford.edu/people/ebrun/)
 in Stanford [AI for Human Impact](https://twitter.com/aiforhi?lang=en) and
 [Stanford Artificial Intelligence](http://ai.stanford.edu) Lab.
 More specifically, I study the following topics:
-
-- Exploration-Exploitation trade-off in Deep RL
+ 
 - Exploration in safe Reinforcement Learning
 - Off-policy policy evaluation
+- Application of RL in health care
 
 
+## Preprint
+
+#### Off-policy Policy Evaluation For Sequential Decisions Under Unobserved Confounding [[arXiv](https://arxiv.org/pdf/2003.05623.pdf)]
+Hongseok Namkoong<sup>*</sup> *Ramtin Keramati<sup>*</sup>*, Steve Yadlowsky<sup>*</sup>, Emma Brunskill
 
 ## Conference
 
-#### Being Optimistic to Be Conservative: Quickly Learning a CVaR Policy [[arXiv](https://arxiv.org/abs/1911.01546)]
-*To appear: AAAI 2020, New York, USA*
+#### Being Optimistic to Be Conservative: Quickly Learning a CVaR Policy [[pdf](/assets/pdf/AAAI_CVaR.pdf)]
+*AAAI 2020, New York, USA*
 
 *Ramtin Keramati*, Chris Dann, Alex Tamkin, Emma Brunskill
 
