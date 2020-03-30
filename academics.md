@@ -13,7 +13,7 @@ More specifically, I study the following topics:
 ## Preprint
 
 #### Off-policy Policy Evaluation For Sequential Decisions Under Unobserved Confounding [[arXiv](https://arxiv.org/pdf/2003.05623.pdf)]
-Hongseok Namkoong <sup>*</sup>, Ramtin Keramati <sup>*</sup>, Steve Yadlowsky <sup>*</sup>, Emma Brunskill
+Hongseok Namkoong <sup> * </sup>, Ramtin Keramati <sup> * </sup>, Steve Yadlowsky <sup> * </sup>, Emma Brunskill
 
 ## Conference
 
