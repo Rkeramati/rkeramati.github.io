@@ -17,12 +17,12 @@ Hongseok Namkoong <sup> * </sup>, *Ramtin Keramati* <sup> * </sup>, Steve Yadlow
 
 ## Conference
 
-#### Being Optimistic to Be Conservative: Quickly Learning a CVaR Policy [[pdf](/assets/pdf/AAAI_CVaR.pdf)]
+#### Being Optimistic to Be Conservative: Quickly Learning a CVaR Policy [[arXiv](https://arxiv.org/pdf/1911.01546.pdf)]
 *AAAI 2020, New York, USA*
 
 *Ramtin Keramati*, Chris Dann, Alex Tamkin, Emma Brunskill
 
-#### Value Driven Representations for Reinforcement Learning [[pdf](/assets/pdf/DVR.pdf)],[[supp](/assets/pdf/DVR_Supp)]
+#### Value Driven Representations for Reinforcement Learning [[arXiv](https://arxiv.org/pdf/2004.01223.pdf)]
 User Modelling, Adaptation and Personalization (UMAP) 2019, (23% acceptance rate)
 
 *Ramtin Keramati*, Emma Brunskill
