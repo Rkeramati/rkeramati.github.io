@@ -9,13 +9,11 @@ More specifically, I study the following topics:
 - Off-policy policy evaluation
 - Application of RL in health care
 
-
-## Preprint
-
-#### Off-policy Policy Evaluation For Sequential Decisions Under Unobserved Confounding [[arXiv](https://arxiv.org/pdf/2003.05623.pdf)]
-Hongseok Namkoong <sup> * </sup>, *Ramtin Keramati* <sup> * </sup>, Steve Yadlowsky <sup> * </sup>, Emma Brunskill
-
 ## Conference
+
+#### Off-policy Policy Evaluation For Sequential Decisions Under Unobserved Confounding [[arXiv]](https://arxiv.org/pdf/2003.05623.pdf)
+*NeurIPS 2020*
+Hongseok Namkoong <sup> * </sup>, *Ramtin Keramati* <sup> * </sup>, Steve Yadlowsky <sup> * </sup>, Emma Brunskill
 
 #### Being Optimistic to Be Conservative: Quickly Learning a CVaR Policy [[arXiv](https://arxiv.org/pdf/1911.01546.pdf)]
 *AAAI 2020, New York, USA*
@@ -29,7 +27,12 @@ User Modelling, Adaptation and Personalization (UMAP) 2019, (23% acceptance rate
 
 ## Workshop
 
-#### Distributionally-Aware Exploration for CVaR Bandits [[pdf](/assets/pdf/CVaR_Bandit.pdf)]
+#### Off-policy Policy Evaluation Under Unobserved Confounding [[link, presentation]](https://causalrlworkshop.github.io/program/cldm_7.html)
+*ICLR 2020: Causal Learning For Decision Making*
+
+Hongseok Namkoong <sup> * </sup>, *Ramtin Keramati* <sup> * </sup>, Steve Yadlowsky <sup> * </sup>, Emma Brunskill
+
+#### Distributionally-Aware Exploration for CVaR Bandits [[pdf]](/assets/pdf/CVaR_Bandit.pdf)
 *NeurIPS 2019 : Safety and Robustness in Decision Making workshop*
 
 Alext Tamkin, *Ramtin Keramati*, Chris Dann, Emma Brunskill
@@ -45,6 +48,11 @@ Alext Tamkin, *Ramtin Keramati*, Chris Dann, Emma Brunskill
 Evan Liu, *Ramtin Keramati*, Kelvin Guu, Sudarshan Seshadri, Panupong Pasupat, Percy Liang and Emma Brunskill
 
 ## Journal
+
+#### Significant contribution of small icebergs to the freshwater budget in Greenland fjords[[link]](https://www.nature.com/articles/s43247-020-00032-3)
+Communications earth & environment, Nature Publishing Group
+
+Soroush Rezvanbehbahani, Leigh A Stearns, *Ramtin Keramati*, Siddharth Shankar, CJ van der Veen
 
 #### Dynamics of the nanoneedle probe in trolling mode AFM [[link](http://iopscience.iop.org/article/10.1088/0957-4484/26/20/205702/meta)]
 Journal of Nanotechnology
