@@ -14,5 +14,5 @@ I am particularly excited about applications of RL in Health Care.
 
 I enjoy reading [NYT](https://nytimes.com),
 [backpacking](https://www.nps.gov/yose/planyourvisit/backpacking.htm),
-listening to [Pink Floyd](https://www.youtube.com/watch?v=7jMlFXouPk8) and [Arctic Monkeys](https://www.youtube.com/watch?v=71Es-8FfATo)!
+listening to [Pink Floyd](https://www.youtube.com/watch?v=7jMlFXouPk8) and [Arctic Monkeys](https://www.youtube.com/watch?v=71Es-8FfATo).
 And I think Yosemite is the best place on the earth.
