@@ -14,6 +14,8 @@ More specifically, I study the following topics:
 #### Identification of Subgroups With Similar Benefits in Off-Policy Policy Evaluation
 Under submission *ICML 2021*
 
+*Ramtin Keramati*, Omer Gottesman, Finale Doshi-Velez, Emma Brunskill
+
 #### Off-policy Policy Evaluation For Sequential Decisions Under Unobserved Confounding [[arXiv]](https://arxiv.org/pdf/2003.05623.pdf)
 *NeurIPS 2020*
 
