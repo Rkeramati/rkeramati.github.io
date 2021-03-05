@@ -11,7 +11,10 @@ More specifically, I study the following topics:
 - Off-policy policy evaluation and optimization
 - Application of RL to health care
 
-## Conference Publications
+
+
+
+### Conference Publications
 
 #### Off-policy Policy Evaluation For Sequential Decisions Under Unobserved Confounding [[arXiv]](https://arxiv.org/pdf/2003.05623.pdf)
 Thirty-fourth Conference on Neural Information Processing Systems, *NeurIPS 2020*
@@ -33,7 +36,9 @@ Under submission: Thirty-eighth International Conference on Machine Learning, *I
 
 *Ramtin Keramati*, Omer Gottesman, Finale Doshi-Velez, Emma Brunskill
 
-## Journal Publications
+
+
+### Journal Publications
 
 #### Significant contribution of small icebergs to the freshwater budget in Greenland fjords[[link]](https://www.nature.com/articles/s43247-020-00032-3)
 Communications earth & environment, Nature Publishing Group
@@ -50,7 +55,9 @@ Journal of Applied Physics
 
 Hossein Nejat Pishkenari, *Ramtin Keramati*, Ahmad Abdi, Majid Minary-Jolandan
 
-## Workshop Publications
+
+
+### Workshop Publications
 
 #### Off-policy Policy Evaluation Under Unobserved Confounding [[link, presentation]](https://causalrlworkshop.github.io/program/cldm_7.html)
 *ICLR 2020: Causal Learning For Decision Making*
@@ -72,7 +79,9 @@ Alext Tamkin, *Ramtin Keramati*, Chris Dann, Emma Brunskill
 
 Evan Liu, *Ramtin Keramati*, Kelvin Guu, Sudarshan Seshadri, Panupong Pasupat, Percy Liang and Emma Brunskill
 
-## Teaching
+
+
+### Teaching
 
 - **Award:** [Centennial TA 2018](https://teachingcommons.stanford.edu/grants-awards/teaching-awards/centennial-teaching-assistant-awards)
 - **Head TA** of Reinforcement Learning (CS234), Prof. Emma Brunskill
