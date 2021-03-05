@@ -1,4 +1,4 @@
 
 
 :-------------------------:|:-------------------------:
-![](/assets/img/dv.JPG =250x)  |  ![](/assets/img/jtree.JPG =250x)
+<img src="/assets/img/dv.JPG " width="30%">   |  <img src="/assets/img/jtree.JPG " width="30%"> 
