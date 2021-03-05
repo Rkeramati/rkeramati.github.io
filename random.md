@@ -1,5 +1,3 @@
-np.random.randn()!
-
 
 :-------------------------:|:-------------------------:
-![](/assets/img/dv.jpg)  |  ![](/assets/img/jtree.jpg)
+![](/assets/img/dv.JPG)  |  ![](/assets/img/jtree.JPG)

@@ -12,7 +12,8 @@ More specifically, I study the following topics:
 - Application of RL to health care
 
 
-
+<br/>
+<br/>
 
 ### Conference Publications
 
@@ -36,7 +37,8 @@ Under submission: Thirty-eighth International Conference on Machine Learning, *I
 
 *Ramtin Keramati*, Omer Gottesman, Finale Doshi-Velez, Emma Brunskill
 
-
+<br/>
+<br/>
 
 ### Journal Publications
 
@@ -55,7 +57,8 @@ Journal of Applied Physics
 
 Hossein Nejat Pishkenari, *Ramtin Keramati*, Ahmad Abdi, Majid Minary-Jolandan
 
-
+<br/>
+<br/>
 
 ### Workshop Publications
 
@@ -79,7 +82,8 @@ Alext Tamkin, *Ramtin Keramati*, Chris Dann, Emma Brunskill
 
 Evan Liu, *Ramtin Keramati*, Kelvin Guu, Sudarshan Seshadri, Panupong Pasupat, Percy Liang and Emma Brunskill
 
-
+<br/>
+<br/>
 
 ### Teaching
 
