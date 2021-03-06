@@ -1,9 +1,9 @@
 
-There is nothing that I enjoy more than backpacking 
-finding remote places and photogprahy. I was lucky to
-be able to visit more than a half of Unites States national parks
+There is nothing that I enjoy more than backpacking, finding remote places and photogprahy. 
+I was lucky to
+be able to visit more than a half of United States national parks
 in the past years. Here is some of my favorite photos.
-Follow me on [Instagram]() to see more.
+Follow me on [Instagram](https://www.instagram.com/r.keramati/?hl=en) to see more.
 
 <figure>
   <img src="/assets/img/dv.JPG" alt="DV" style="width:100%">
