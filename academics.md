@@ -2,12 +2,12 @@
 My research mainly focuses on Reinforcement Learning (RL) under the
 supervision of [Emma Brunskill](https://cs.stanford.edu/people/ebrun/)
 in Stanford [AI for Human Impact](https://twitter.com/aiforhi?lang=en),
-[Stanford Artificial Intelligence](http://ai.stanford.edu) Lab and
+[Stanford Artificial Intelligence Lab](http://ai.stanford.edu) and
 [Statistical Machine Learning Group](http://statsml.stanford.edu/index.html).
 
 More specifically, I study the following topics:
  
-- Robust Reinforcement Learning
+- Robust and Safe Reinforcement Learning
 - Off-policy policy evaluation and optimization
 - Application of RL to health care
 
@@ -15,7 +15,7 @@ More specifically, I study the following topics:
 <br/>
 <br/>
 
-### Conference Publications
+## Conference Publications
 
 #### Off-policy Policy Evaluation For Sequential Decisions Under Unobserved Confounding [[arXiv]](https://arxiv.org/pdf/2003.05623.pdf)
 Thirty-fourth Conference on Neural Information Processing Systems, *NeurIPS 2020*
@@ -40,7 +40,7 @@ Under submission: Thirty-eighth International Conference on Machine Learning, *I
 <br/>
 <br/>
 
-### Journal Publications
+## Journal Publications
 
 #### Significant contribution of small icebergs to the freshwater budget in Greenland fjords[[link]](https://www.nature.com/articles/s43247-020-00032-3)
 Communications earth & environment, Nature Publishing Group
@@ -60,7 +60,7 @@ Hossein Nejat Pishkenari, *Ramtin Keramati*, Ahmad Abdi, Majid Minary-Jolandan
 <br/>
 <br/>
 
-### Workshop Publications
+## Workshop Publications
 
 #### Off-policy Policy Evaluation Under Unobserved Confounding [[link, presentation]](https://causalrlworkshop.github.io/program/cldm_7.html)
 *ICLR 2020: Causal Learning For Decision Making*
@@ -85,7 +85,7 @@ Evan Liu, *Ramtin Keramati*, Kelvin Guu, Sudarshan Seshadri, Panupong Pasupat, P
 <br/>
 <br/>
 
-### Teaching
+## Teaching
 
 - **Award:** [Centennial TA 2018](https://teachingcommons.stanford.edu/grants-awards/teaching-awards/centennial-teaching-assistant-awards)
 - **Head TA** of Reinforcement Learning (CS234), Prof. Emma Brunskill
