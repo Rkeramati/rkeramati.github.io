@@ -1,7 +1,7 @@
 
 There is nothing that I enjoy more than backpacking, finding remote places and photogprahy. 
 I was lucky to
-be able to visit more than a half of United States national parks
+be able to visit more than half of United States national parks
 in the past years. Here is some of my favorite photos.
 Follow me on [Instagram](https://www.instagram.com/r.keramati/?hl=en) to see more.
 
