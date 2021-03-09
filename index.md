@@ -10,6 +10,5 @@ and human-in-the-loop RL.
 - [Resume](/assets/pdf/resume.pdf)
 - [Academics](/academics.md)
 - [Linkedin](https://www.linkedin.com/in/rkeramati/)
-- [Instagram](https://www.instagram.com/r.keramati/)
 
-In my free time, I enjoy backpacking, amateur [photography](/random.md), listening to [Pink Floyd](https://www.youtube.com/watch?v=7jMlFXouPk8) and [Arctic Monkeys](https://www.youtube.com/watch?v=71Es-8FfATo).
+In my free time, I enjoy backpacking, amateur [photography](/random.md) (also check my [Instagram](https://www.instagram.com/r.keramati/) account), listening to [Pink Floyd](https://www.youtube.com/watch?v=7jMlFXouPk8) and [Arctic Monkeys](https://www.youtube.com/watch?v=71Es-8FfATo).
