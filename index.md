@@ -12,3 +12,6 @@ and human-in-the-loop RL.
 - [Linkedin](https://www.linkedin.com/in/rkeramati/)
 
 In my free time, I enjoy backpacking, amateur [photography](/random.md) (also check my [Instagram](https://www.instagram.com/r.keramati/) account), climbing, listening to [Pink Floyd](https://www.youtube.com/watch?v=7jMlFXouPk8) and [Arctic Monkeys](https://www.youtube.com/watch?v=71Es-8FfATo).
+
+### Ph.D. Dissertation
+- [Version 1, May 15 2021](/assets/pdf/PhD_Dissertation_V1.pdf)
