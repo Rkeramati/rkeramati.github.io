@@ -15,3 +15,4 @@ In my free time, I enjoy backpacking, amateur [photography](/random.md) (also ch
 
 ### Ph.D. Dissertation
 - [Version 1, May 15 2021](/assets/pdf/PhD_Dissertation_V1.pdf)
+- [Version 2, June 1 2021](/assets/pdf/PhD_Dissertation_V2.pdf)
