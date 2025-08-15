@@ -183,7 +183,7 @@ header {
 .profile-info {
   flex: 1;
   text-align: left;
-  max-width: 350px;
+  max-width: none;
 }
 
 .profile-info h1 {
