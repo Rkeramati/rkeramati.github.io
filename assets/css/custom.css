@@ -21,7 +21,7 @@
   width: 90%;
   margin: 0 auto;
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
   align-items: center;
 }
 
@@ -276,6 +276,10 @@ a {
   transform: none !important;
   scale: none !important;
   font-size: inherit !important;
+  line-height: inherit !important;
+  font-weight: inherit !important;
+  letter-spacing: inherit !important;
+  text-transform: none !important;
 }
 
 a:hover {
@@ -285,6 +289,10 @@ a:hover {
   scale: none !important;
   font-size: inherit !important;
   zoom: 1 !important;
+  line-height: inherit !important;
+  font-weight: inherit !important;
+  letter-spacing: inherit !important;
+  text-transform: none !important;
 }
 
 /* Ensure absolutely no scaling, sizing, or transformation on any links */
@@ -297,6 +305,13 @@ a, a:hover, a:focus, a:active, a:visited {
   -moz-transform: none !important;
   -ms-transform: none !important;
   -o-transform: none !important;
+  line-height: inherit !important;
+  font-weight: inherit !important;
+  letter-spacing: inherit !important;
+  text-transform: none !important;
+  text-shadow: none !important;
+  filter: none !important;
+  -webkit-filter: none !important;
 }
 
 /* Academic list styling */
