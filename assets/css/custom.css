@@ -147,6 +147,13 @@ header {
   text-decoration: none;
 }
 
+/* Special styling for academics and teaching page headers */
+body[class*="academics"] .simple-header,
+body[class*="teaching"] .simple-header,
+.simple-header:has(h1:not(:has(a))) {
+  text-align: left;
+}
+
 /* Profile section layout - centered two-column design */
 .profile-section {
   display: flex;
@@ -273,13 +280,20 @@ a {
   color: #007aff;
   text-decoration: none;
   transition: color 0.2s ease;
-  transform: none;
+  transform: none !important;
 }
 
 a:hover {
   color: #0051d5;
   text-decoration: none;
-  transform: none;
+  transform: none !important;
+}
+
+/* Ensure no scaling on any links */
+a:hover:not(.social-link):not(.pdf-link):not(.link-button) {
+  transform: none !important;
+  font-size: inherit !important;
+  scale: none !important;
 }
 
 /* Academic list styling */
@@ -595,4 +609,30 @@ footer:not(.social-footer) {
   text-decoration: none;
   transform: translateY(-1px);
   box-shadow: 0 2px 6px rgba(40, 167, 69, 0.4);
+}
+
+/* Blue Link Button for External Links */
+.link-button {
+  display: inline-block;
+  background: #007aff;
+  color: white !important;
+  padding: 4px 10px;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-radius: 4px;
+  text-decoration: none;
+  margin-left: 8px;
+  transition: all 0.2s ease;
+  box-shadow: 0 1px 3px rgba(0, 122, 255, 0.3);
+  vertical-align: middle;
+}
+
+.link-button:hover {
+  background: #0051d5;
+  color: white !important;
+  text-decoration: none;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 6px rgba(0, 122, 255, 0.4);
 }

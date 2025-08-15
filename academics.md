@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Academics
+This page lists my peer-reviewed conference papers, journal articles, and dissertation.
 
 ## Conference Publications
 
@@ -42,6 +43,6 @@ Hossein Nejat Pishkenari, *Ramtin Keramati*, Ahmad Abdi, Majid Minary-Jolandan
 
 ## Ph.D. Dissertation
 
-**Title:** [Off-Policy Evaluation and Learning in Reinforcement Learning under Unobserved Confounding](https://stacks.stanford.edu/file/dd732zb2339/Dissertation-augmented.pdf)  
+**Title:** Off-Policy Evaluation and Learning in Reinforcement Learning under Unobserved Confounding <a href="https://stacks.stanford.edu/file/dd732zb2339/Dissertation-augmented.pdf" class="link-button" target="_blank">LINK</a>  
 *Stanford University, June 2021*  
 Advisor: [Emma Brunskill](https://cs.stanford.edu/people/ebrun/)  

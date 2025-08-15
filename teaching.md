@@ -4,29 +4,24 @@ layout: default
 
 # Teaching
 
-## Stanford University
+## Teaching Experience
 
-### Head Teaching Assistant
+- **Visiting Lecturer**, [Cornell Tech](https://www.tech.cornell.edu/) — *Machine Learning Engineering* (Spring 2025) — Cornell Tech, Cornell University  
 
-**CS 234: Reinforcement Learning** - Prof. Emma Brunskill  
-Advanced course covering reinforcement learning algorithms, Markov decision processes, policy gradient methods, and deep reinforcement learning applications.
+- **Head TA** of Reinforcement Learning (CS234), Prof. Emma Brunskill — *Winter 2020, Winter 2021* — Stanford University  
 
-**CS 230: Deep Learning** - Prof. Andrew Ng, Kian Katanforoosh  
-Comprehensive course on deep learning architectures, including CNNs, RNNs, and modern neural network techniques with practical applications.
+- **Head TA** of Deep Learning (CS230), Prof. Andrew Ng, Kian Katanforoosh — *Fall 2019* — Stanford University  
 
-### Teaching Assistant
+- Teaching Assistant of Deep Learning (CS230), Prof. Andrew Ng, Kian Katanforoosh — *Fall 2018* — Stanford University  
 
-**CME 200: Linear Algebra with Applications** - Prof. Iaccarino, G.  
-Fundamental linear algebra concepts with computational applications in engineering and scientific computing.
+- Teaching Assistant of Linear Algebra with Application (CME200), Prof. Gianluca Iaccarino — *Spring 2018* — Stanford University  
 
-## Awards & Recognition
+- Teaching Assistant of Numerical Methods for Engineering (CME206), Prof. Alison Marsden — *Winter 2018* — Stanford University  
 
-**Centennial TA Award** - Stanford University, 2018  
-Prestigious university-wide teaching award recognizing exceptional contribution to undergraduate education.
+## Teaching Awards
 
-**Outstanding Teaching Assistant** - Department of Computer Science  
-Fall and Winter 2017 - Recognition for excellence in teaching and student mentorship.
+- **Centennial TA Award**, Stanford University — *2018*  
+  Prestigious university-wide teaching award recognizing exceptional contribution to undergraduate education.
 
-## Teaching Philosophy
-
-My approach to teaching combines rigorous theoretical foundations with practical, hands-on applications. I believe in making complex concepts accessible through clear explanations, interactive examples, and real-world problem-solving scenarios.
+- **Outstanding Teaching Assistant**, Department of Computer Science, Stanford University — *Fall & Winter 2017*  
+  Recognition for excellence in teaching and student mentorship.

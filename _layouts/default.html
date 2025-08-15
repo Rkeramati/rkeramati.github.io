@@ -61,7 +61,13 @@
           </div>
         {% else %}
         <div class="simple-header">
+          {% if page.url contains 'academics' %}
+          <h1>Academics</h1>
+          {% elsif page.url contains 'teaching' %}
+          <h1>Teaching</h1>
+          {% else %}
           <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+          {% endif %}
         </div>
         {% endif %}
 	<!--	<ul class="list-inline outside-links"><li><a href="https://twitter.com/RamtinKeramati"><i class="fa fa-twitter"></i></a></li> -->
