@@ -1,13 +1,16 @@
 /* Academic Paper Inspired Design */
 
-/* Journal-like typography */
+/* Modern academic typography */
 body {
-  font-family: "Times New Roman", Times, serif;
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.8;
-  color: #1a1a1a;
+  line-height: 1.7;
+  color: #1d1d1f;
   background-color: #ffffff;
   max-width: none;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /* Override theme wrapper for academic layout */
@@ -46,14 +49,21 @@ header h1 a:hover {
   text-decoration: none;
 }
 
-/* Profile image - academic style */
+/* Profile image - modern academic style */
 header img {
   width: 120px;
   height: 120px;
   border-radius: 50%;
   margin: 20px auto;
   display: block;
-  border: 2px solid #f0f0f0;
+  border: 3px solid rgba(255, 255, 255, 0.9);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+header img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.15);
 }
 
 /* Academic affiliation styling */
@@ -64,14 +74,19 @@ header p {
   color: #555;
 }
 
-/* Clean navigation */
+/* Enhanced navigation with subtle styling */
 header ul {
   list-style: none;
   padding: 0;
-  margin: 25px 0 0 0;
+  margin: 30px 0 0 0;
   display: flex;
   justify-content: center;
-  gap: 25px;
+  gap: 0;
+  background: rgba(249, 249, 251, 0.8);
+  border-radius: 12px;
+  padding: 6px;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(0, 0, 0, 0.04);
 }
 
 header ul li {
@@ -79,19 +94,27 @@ header ul li {
 }
 
 header ul li a {
-  color: #2962ff;
+  color: #1d1d1f;
   text-decoration: none;
   font-size: 14px;
-  font-weight: 400;
-  padding: 8px 0;
-  border-bottom: 1px solid transparent;
-  transition: border-color 0.2s ease;
+  font-weight: 500;
+  padding: 10px 16px;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+  display: block;
+  position: relative;
 }
 
 header ul li a:hover {
-  color: #1565c0;
-  border-bottom-color: #2962ff;
+  color: #007aff;
+  background-color: rgba(255, 255, 255, 0.9);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
   text-decoration: none;
+}
+
+header ul li a strong {
+  font-weight: 600;
 }
 
 /* Academic content styling */
@@ -108,23 +131,36 @@ section {
 
 /* Academic headings */
 section h3 {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 600;
-  color: #1a1a1a;
+  color: #1d1d1f;
   margin: 40px 0 20px 0;
-  padding-bottom: 8px;
-  border-bottom: 1px solid #e5e5e5;
+  padding-bottom: 12px;
+  border-bottom: 2px solid #f5f5f7;
+  position: relative;
+}
+
+section h3:before {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 40px;
+  height: 2px;
+  background: linear-gradient(90deg, #007aff, #5ac8fa);
+  border-radius: 1px;
 }
 
 /* Academic link styling */
 a {
-  color: #2962ff;
+  color: #007aff;
   text-decoration: none;
+  transition: color 0.2s ease;
 }
 
 a:hover {
-  color: #1565c0;
-  text-decoration: underline;
+  color: #0051d5;
+  text-decoration: none;
 }
 
 /* Academic list styling */
