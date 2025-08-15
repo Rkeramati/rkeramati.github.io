@@ -23,17 +23,17 @@ More specifically, I study the following topics:
 
 ## Conference Publications
 
-#### Off-policy Policy Evaluation For Sequential Decisions Under Unobserved Confounding [[arXiv]](https://arxiv.org/pdf/2003.05623.pdf)
+#### Off-policy Policy Evaluation For Sequential Decisions Under Unobserved Confounding <a href="https://arxiv.org/pdf/2003.05623.pdf" class="pdf-link" target="_blank">PDF</a>
 Thirty-fourth Conference on Neural Information Processing Systems, *NeurIPS 2020*
 
 Hongseok Namkoong <sup> * </sup>, *Ramtin Keramati* <sup> * </sup>, Steve Yadlowsky <sup> * </sup>, Emma Brunskill
 
-#### Being Optimistic to Be Conservative: Quickly Learning a CVaR Policy [[arXiv](https://arxiv.org/pdf/1911.01546.pdf)]
+#### Being Optimistic to Be Conservative: Quickly Learning a CVaR Policy <a href="https://arxiv.org/pdf/1911.01546.pdf" class="pdf-link" target="_blank">PDF</a>
 The Thirty-Fourth AAAI Conference on Artificial Intelligence, *AAAI 2020, New York, USA*
 
 *Ramtin Keramati*, Chris Dann, Alex Tamkin, Emma Brunskill
 
-#### Value Driven Representations for Reinforcement Learning [[arXiv](https://arxiv.org/pdf/2004.01223.pdf)]
+#### Value Driven Representations for Reinforcement Learning <a href="https://arxiv.org/pdf/2004.01223.pdf" class="pdf-link" target="_blank">PDF</a>
 User Modelling, Adaptation and Personalization (UMAP) 2019, (23% acceptance rate)
 
 *Ramtin Keramati*, Emma Brunskill
@@ -73,17 +73,17 @@ Hossein Nejat Pishkenari, *Ramtin Keramati*, Ahmad Abdi, Majid Minary-Jolandan
 
 Hongseok Namkoong <sup> * </sup>, *Ramtin Keramati* <sup> * </sup>, Steve Yadlowsky <sup> * </sup>, Emma Brunskill
 
-#### Distributionally-Aware Exploration for CVaR Bandits [[pdf]](/assets/pdf/CVaR_Bandit.pdf)
+#### Distributionally-Aware Exploration for CVaR Bandits <a href="/assets/pdf/CVaR_Bandit.pdf" class="pdf-link" target="_blank">PDF</a>
 *NeurIPS 2019 : Safety and Robustness in Decision Making workshop*
 
 Alext Tamkin, *Ramtin Keramati*, Chris Dann, Emma Brunskill
 
-#### Strategic Object Oriented Reinforcement Learning [[arXiv](https://arxiv.org/abs/1806.00175)]
+#### Strategic Object Oriented Reinforcement Learning <a href="https://arxiv.org/abs/1806.00175" class="pdf-link" target="_blank">PDF</a>
 *ICML 2018: Exploration in Reinforcement Learning workshop*
 
 *Ramtin Keramati*, Jay Whang, Patrick Cho, Emma Brunskill
 
-#### Hierarchy-Driven Exploration in Reinforcement Learning [[pdf](/assets/pdf/HRL_ERL.pdf)]
+#### Hierarchy-Driven Exploration in Reinforcement Learning <a href="/assets/pdf/HRL_ERL.pdf" class="pdf-link" target="_blank">PDF</a>
 *ICML 2018: Exploration in Reiforcement Learning workshop*
 
 Evan Liu, *Ramtin Keramati*, Kelvin Guu, Sudarshan Seshadri, Panupong Pasupat, Percy Liang and Emma Brunskill
