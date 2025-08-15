@@ -1,4 +1,10 @@
 
+---
+layout: default
+---
+
+# Academics
+
 My research mainly focuses on Reinforcement Learning (RL) under the
 supervision of [Emma Brunskill](https://cs.stanford.edu/people/ebrun/)
 in Stanford [AI for Human Impact](https://twitter.com/aiforhi?lang=en),

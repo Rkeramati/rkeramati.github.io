@@ -1,5 +1,11 @@
 
-There is nothing that I enjoy more than backpacking, finding remote places and photogprahy. 
+---
+layout: default
+---
+
+# Photography & Travel
+
+There is nothing that I enjoy more than backpacking, finding remote places and photography. 
 I was lucky to
 be able to visit more than half of United States national parks
 in the past years. Here is some of my favorite photos.

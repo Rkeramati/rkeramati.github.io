@@ -20,19 +20,17 @@
           <a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a>
         </div>
         <div class="nav-links">
-          <a href="../index.html">Main</a>
-          <a href="../academics.html">Academics</a>
-          <a href="../teaching.html">Teaching</a>
-          <a href="../projects.html">Projects</a>
-          <a href="../random.html">Random</a>
+          <a href="{{ "/" | relative_url }}">Main</a>
+          <a href="{{ "/academics.html" | relative_url }}">Academics</a>
+          <a href="{{ "/teaching.html" | relative_url }}">Teaching</a>
+          <a href="{{ "/projects.html" | relative_url }}">Projects</a>
+          <a href="{{ "/random.html" | relative_url }}">Random</a>
         </div>
       </div>
     </nav>
 
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
         <div class="profile-section">
           <div class="profile-image">
             {% if site.logo %}
@@ -41,6 +39,7 @@
           </div>
           
           <div class="profile-info">
+            <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
             <p>PhD candidate in <a href="https://icme.stanford.edu"> ICME</a><br>
             <a href="https://ai.stanford.edu"> Stanford Artificial Intelligence Lab</a>
             <br>
