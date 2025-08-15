@@ -126,7 +126,7 @@ header {
 
 /* Simple header for non-main pages */
 .simple-header {
-  text-align: center;
+  text-align: left;
   padding: 20px 0;
 }
 
@@ -145,13 +145,6 @@ header {
 .simple-header h1 a:hover {
   color: #007aff;
   text-decoration: none;
-}
-
-/* Special styling for academics and teaching page headers */
-body[class*="academics"] .simple-header,
-body[class*="teaching"] .simple-header,
-.simple-header:has(h1:not(:has(a))) {
-  text-align: left;
 }
 
 /* Profile section layout - centered two-column design */
@@ -182,7 +175,7 @@ body[class*="teaching"] .simple-header,
 }
 
 .profile-image img:hover {
-  transform: scale(1.02);
+  transform: none;
   box-shadow: 0 6px 25px rgba(0, 0, 0, 0.15);
 }
 
@@ -275,13 +268,14 @@ section h3:before {
   border-radius: 1px;
 }
 
-/* Academic link styling */
+/* Academic link styling - completely disable any scaling or size changes */
 a {
   color: #007aff;
   text-decoration: none;
-  transition: color 0.2s ease;
+  transition: color 0.2s ease !important;
   transform: none !important;
   scale: none !important;
+  font-size: inherit !important;
 }
 
 a:hover {
@@ -289,26 +283,33 @@ a:hover {
   text-decoration: none;
   transform: none !important;
   scale: none !important;
+  font-size: inherit !important;
+  zoom: 1 !important;
 }
 
-/* Ensure no scaling on any links */
-a:hover {
+/* Ensure absolutely no scaling, sizing, or transformation on any links */
+a, a:hover, a:focus, a:active, a:visited {
   transform: none !important;
-  font-size: inherit !important;
   scale: none !important;
+  font-size: inherit !important;
+  zoom: 1 !important;
+  -webkit-transform: none !important;
+  -moz-transform: none !important;
+  -ms-transform: none !important;
+  -o-transform: none !important;
 }
 
 /* Academic list styling */
 section ul {
   margin: 20px 0;
-  padding-left: 0;
+  padding-left: 20px;
   list-style: none;
 }
 
 section li {
   margin: 12px 0;
   position: relative;
-  padding-left: 0;
+  padding-left: 20px;
 }
 
 section li:before {
@@ -316,7 +317,7 @@ section li:before {
   color: #2962ff;
   font-weight: bold;
   position: absolute;
-  left: -15px;
+  left: 0;
 }
 
 /* Paragraph spacing for academic readability */
@@ -568,7 +569,7 @@ footer:not(.social-footer) {
 }
 
 .social-link:hover svg {
-  transform: scale(1.1);
+  transform: none;
 }
 
 /* Mobile responsiveness for social footer */
