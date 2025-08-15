@@ -111,6 +111,7 @@ body {
   flex: 1;
   display: flex;
   flex-direction: column;
+  min-height: calc(100vh - 60px);
 }
 
 /* Academic header styling */
@@ -233,6 +234,7 @@ section {
   font-size: 16px;
   line-height: 1.8;
   flex: 1;
+  min-height: 0;
 }
 
 /* Academic headings */
@@ -485,6 +487,7 @@ footer:not(.social-footer) {
   margin-left: auto;
   margin-right: auto;
   flex-shrink: 0;
+  position: relative;
 }
 
 .footer-separator {
