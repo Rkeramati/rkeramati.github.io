@@ -120,16 +120,21 @@ header h1 a:hover {
   text-decoration: none;
 }
 
-/* Profile section layout */
+/* Profile section layout - centered two-column design */
 .profile-section {
   display: flex;
   align-items: center;
-  gap: 40px;
+  justify-content: center;
+  gap: 50px;
   margin-top: 20px;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .profile-image {
   flex-shrink: 0;
+  text-align: center;
 }
 
 /* Profile image - modern academic style */
@@ -147,10 +152,11 @@ header h1 a:hover {
   box-shadow: 0 6px 25px rgba(0, 0, 0, 0.15);
 }
 
-/* Profile info styling */
+/* Profile info styling - centered in its column */
 .profile-info {
   flex: 1;
-  text-align: left;
+  text-align: center;
+  max-width: 300px;
 }
 
 .profile-info p {
