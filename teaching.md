@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-# Teaching
+I believe students learn best by actively applying concepts rather than passively consuming them. My teaching emphasizes hands-on projects, real-world problem solving, and iterative experimentation, encouraging students to build intuition through doing as much as through listening.
 
 ## Teaching Experience
 

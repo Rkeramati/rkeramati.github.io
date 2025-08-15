@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-
-# Academics
 This page lists my peer-reviewed conference papers, journal articles, and dissertation.
 
 ## Conference Publications

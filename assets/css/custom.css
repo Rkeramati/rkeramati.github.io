@@ -281,16 +281,18 @@ a {
   text-decoration: none;
   transition: color 0.2s ease;
   transform: none !important;
+  scale: none !important;
 }
 
 a:hover {
   color: #0051d5;
   text-decoration: none;
   transform: none !important;
+  scale: none !important;
 }
 
 /* Ensure no scaling on any links */
-a:hover:not(.social-link):not(.pdf-link):not(.link-button) {
+a:hover {
   transform: none !important;
   font-size: inherit !important;
   scale: none !important;
