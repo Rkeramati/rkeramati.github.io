@@ -107,10 +107,9 @@ body {
   width: 90%;
   max-width: 900px;
   margin: 0 auto;
-  position: static;
-  flex: 1;
-  display: flex;
-  flex-direction: column;
+  position: relative;
+  min-height: calc(100vh - 60px);
+  padding-bottom: 200px;
 }
 
 /* Academic header styling */
@@ -483,12 +482,14 @@ footer:not(.social-footer) {
 
 /* Social Footer */
 .social-footer {
-  margin-top: 60px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
   padding: 40px 0;
   text-align: center;
   display: block !important;
   background: linear-gradient(135deg, #f8f9fa 0%, #f1f3f4 100%);
-  border-top: 1px solid rgba(0, 0, 0, 0.08);
   width: 100%;
   max-width: 900px;
   margin-left: auto;
