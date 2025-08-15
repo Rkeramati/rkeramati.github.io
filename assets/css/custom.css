@@ -487,8 +487,12 @@ footer:not(.social-footer) {
   padding: 40px 0;
   text-align: center;
   display: block !important;
-  background: rgba(249, 249, 251, 0.8);
-  border-top: 1px solid rgba(0, 0, 0, 0.06);
+  background: linear-gradient(135deg, #f8f9fa 0%, #f1f3f4 100%);
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  width: 100%;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .footer-separator {
