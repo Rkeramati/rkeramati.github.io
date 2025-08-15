@@ -102,6 +102,29 @@ header {
   margin-bottom: 40px;
 }
 
+/* Simple header for non-main pages */
+.simple-header {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.simple-header h1 {
+  font-size: 24px;
+  font-weight: 400;
+  margin: 0;
+  color: #1d1d1f;
+}
+
+.simple-header h1 a {
+  color: #1d1d1f;
+  text-decoration: none;
+}
+
+.simple-header h1 a:hover {
+  color: #007aff;
+  text-decoration: none;
+}
+
 /* Profile section layout - centered two-column design */
 .profile-section {
   display: flex;
