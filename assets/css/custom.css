@@ -488,7 +488,16 @@ footer:not(.social-footer) {
   margin-right: auto;
   flex-shrink: 0;
   position: relative;
-  border-top: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.social-footer::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: rgba(0, 0, 0, 0.08);
 }
 
 .footer-separator {

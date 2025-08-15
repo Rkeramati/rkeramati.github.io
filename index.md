@@ -1,17 +1,12 @@
-Hi, (Test)
+I am Vice President of AI Research at Two Sigma Investments, where my work focuses on advancing Reinforcement Learning (RL) methods for application in financial markets. I earned my Ph.D. in the [Institute for Computational and Mathematical Engineering](https://icme.stanford.edu) at Stanford University, advised by Professor [Emma Brunskill](https://cs.stanford.edu/people/ebrun/) in the [Stanford AI Lab](https://ai.stanford.edu). My doctoral research explored technical challenges in deploying RL to real-world domains, with emphasis on off-policy evaluation, safe RL, and human-in-the-loop learning.
 
-I am a Ph.D. candidate in Institute of Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu)) at Stanford University where I'm advised by [Emma Brunskill](https://cs.stanford.edu/people/ebrun/). I am affiliated with [Stanford AI Lab](https://ai.stanford.edu), [Statistical Machine Learning Group](http://statsml.stanford.edu/index.html) and [Stanford AI for Human Impact Lab](https://twitter.com/aiforhi?lang=en).
-
-My research interest includes Reinforcement Learning (RL), Machine Learning, Deep Learning and Safe AI. 
-I specifically focus on Reinforcement Learning and technical challenges that arise when applying it
-to real world problems such as health care and education. This involves off-policy policy evaluation, safe RL 
-and human-in-the-loop RL.
+I am also a Visiting Lecturer at Cornell Tech, where I teach Machine Learning Engineering. My broader research interests include machine learning, deep learning, and the design of safe, reliable AI systems for high-impact applications.
 
 - [Resume](/assets/pdf/resume.pdf)
 - [Academics](/academics.md)
-- [Linkedin](https://www.linkedin.com/in/rkeramati/)
+- [LinkedIn](https://www.linkedin.com/in/ramtin-keramati/)
 
-In my free time, I enjoy backpacking, amateur [photography](/random.md) (also check my [Instagram](https://www.instagram.com/r.keramati/) account), climbing, listening to [Pink Floyd](https://www.youtube.com/watch?v=7jMlFXouPk8) and [Arctic Monkeys](https://www.youtube.com/watch?v=71Es-8FfATo).
+Outside of work, I enjoy skiing in the winter, golfing in the summer, sailing, and mountaineering.
 
 ### Ph.D. Dissertation
 - [Version 1, May 15 2021](/assets/pdf/PhD_Dissertation_V1.pdf)
