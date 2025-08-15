@@ -1,5 +1,73 @@
 /* Academic Paper Inspired Design */
 
+/* Top Navigation Bar */
+.top-navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  z-index: 1000;
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+
+.nav-container {
+  max-width: 900px;
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-brand a {
+  font-size: 18px;
+  font-weight: 600;
+  color: #1d1d1f;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.nav-brand a:hover {
+  color: #007aff;
+  text-decoration: none;
+}
+
+.nav-links {
+  display: flex;
+  gap: 0;
+  background: rgba(249, 249, 251, 0.8);
+  border-radius: 10px;
+  padding: 4px;
+  border: 1px solid rgba(0, 0, 0, 0.04);
+}
+
+.nav-links a {
+  color: #1d1d1f;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 8px 14px;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+
+.nav-links a:hover {
+  color: #007aff;
+  background-color: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+  text-decoration: none;
+}
+
+/* Adjust body for fixed navbar */
+body {
+  padding-top: 60px;
+}
+
 /* Modern academic typography */
 body {
   font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -74,47 +142,9 @@ header p {
   color: #555;
 }
 
-/* Enhanced navigation with subtle styling */
+/* Hide old navigation in header since we now have top navbar */
 header ul {
-  list-style: none;
-  padding: 0;
-  margin: 30px 0 0 0;
-  display: flex;
-  justify-content: center;
-  gap: 0;
-  background: rgba(249, 249, 251, 0.8);
-  border-radius: 12px;
-  padding: 6px;
-  backdrop-filter: blur(10px);
-  border: 1px solid rgba(0, 0, 0, 0.04);
-}
-
-header ul li {
-  margin: 0;
-}
-
-header ul li a {
-  color: #1d1d1f;
-  text-decoration: none;
-  font-size: 14px;
-  font-weight: 500;
-  padding: 10px 16px;
-  border-radius: 8px;
-  transition: all 0.2s ease;
-  display: block;
-  position: relative;
-}
-
-header ul li a:hover {
-  color: #007aff;
-  background-color: rgba(255, 255, 255, 0.9);
-  transform: translateY(-1px);
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-  text-decoration: none;
-}
-
-header ul li a strong {
-  font-weight: 600;
+  display: none;
 }
 
 /* Academic content styling */
@@ -217,6 +247,32 @@ footer a:hover {
 
 /* Mobile responsiveness for academic layout */
 @media (max-width: 720px) {
+  .nav-container {
+    width: 95%;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px 0;
+  }
+  
+  .top-navbar {
+    height: auto;
+    min-height: 60px;
+    padding: 10px 0;
+  }
+  
+  body {
+    padding-top: 80px;
+  }
+  
+  .nav-links {
+    margin-top: 5px;
+  }
+  
+  .nav-links a {
+    padding: 10px 12px;
+    font-size: 14px;
+  }
+  
   .wrapper {
     width: 95%;
     margin: 0 auto;
@@ -229,11 +285,6 @@ footer a:hover {
   
   header h1 {
     font-size: 24px;
-  }
-  
-  header ul {
-    flex-direction: column;
-    gap: 15px;
   }
   
   section {
