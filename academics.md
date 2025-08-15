@@ -16,7 +16,7 @@ More specifically, I study the following topics:
 - Robust and Safe Reinforcement Learning
 - Off-policy policy evaluation and optimization
 - Application of RL to health care
-
+Read more on my [academics](/academics) page, view my [CV](/assets/pdf/resume.pdf), or see my [Ph.D. dissertation (2021)](https://stacks.stanford.edu/file/dd732zb2339/Dissertation-augmented.pdf).
 
 <br/>
 <br/>

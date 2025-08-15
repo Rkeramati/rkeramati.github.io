@@ -273,11 +273,13 @@ a {
   color: #007aff;
   text-decoration: none;
   transition: color 0.2s ease;
+  transform: none;
 }
 
 a:hover {
   color: #0051d5;
   text-decoration: none;
+  transform: none;
 }
 
 /* Academic list styling */
