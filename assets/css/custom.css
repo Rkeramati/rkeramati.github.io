@@ -478,7 +478,7 @@ footer:not(.social-footer) {
 .social-footer {
   margin-top: auto;
   margin-bottom: 0;
-  padding: 40px 0;
+  padding: 60px 0 40px 0;
   text-align: center;
   display: block !important;
   background: transparent;
@@ -488,6 +488,7 @@ footer:not(.social-footer) {
   margin-right: auto;
   flex-shrink: 0;
   position: relative;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
 }
 
 .footer-separator {
