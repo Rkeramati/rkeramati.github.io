@@ -296,18 +296,9 @@ section p {
   text-align: justify;
 }
 
-/* Footer styling - absolutely fixed at bottom */
-footer {
-  margin-top: auto;
-  padding: 20px 0;
-  border-top: 1px solid #e5e5e5;
-  text-align: center;
-  font-size: 11px;
-  color: #888;
-  line-height: 1.4;
-  background-color: rgba(249, 249, 251, 0.8);
-  width: 100%;
-  flex-shrink: 0;
+/* Hide generic footer styling */
+footer:not(.social-footer) {
+  display: none;
 }
 
 footer p {
@@ -483,7 +474,8 @@ footer:not(.social-footer) {
 
 /* Social Footer */
 .social-footer {
-  margin-top: 60px;
+  margin-top: auto;
+  margin-bottom: 0;
   padding: 40px 0;
   text-align: center;
   display: block !important;
@@ -492,6 +484,7 @@ footer:not(.social-footer) {
   max-width: 900px;
   margin-left: auto;
   margin-right: auto;
+  flex-shrink: 0;
 }
 
 .footer-separator {
