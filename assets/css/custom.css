@@ -84,13 +84,13 @@
   text-decoration: none;
 }
 
-/* Modern academic typography with darker theme */
+/* Modern academic typography with improved readability */
 body {
   font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.7;
-  color: #1d1d1f;
-  background: linear-gradient(135deg, #f8f9fa 0%, #f1f3f4 100%);
+  line-height: 1.75;
+  color: #1a1a1a;
+  background: linear-gradient(135deg, #fafbfc 0%, #f4f6f8 100%);
   max-width: none;
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
@@ -246,31 +246,52 @@ section {
   min-height: 0;
 }
 
-/* Academic headings */
+/* Academic headings with improved hierarchy */
+section h2 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin: 50px 0 30px 0;
+  padding-bottom: 16px;
+  border-bottom: 2px solid #e8eaed;
+  position: relative;
+}
+
+section h2:before {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 50px;
+  height: 2px;
+  background: linear-gradient(90deg, #4285f4, #34a853);
+  border-radius: 1px;
+}
+
 section h3 {
   font-size: 20px;
   font-weight: 600;
-  color: #1d1d1f;
+  color: #1a1a1a;
   margin: 40px 0 20px 0;
   padding-bottom: 12px;
-  border-bottom: 2px solid #f5f5f7;
+  border-bottom: 1px solid #f0f2f4;
   position: relative;
 }
 
 section h3:before {
   content: '';
   position: absolute;
-  bottom: -2px;
+  bottom: -1px;
   left: 0;
   width: 40px;
-  height: 2px;
-  background: linear-gradient(90deg, #007aff, #5ac8fa);
+  height: 1px;
+  background: linear-gradient(90deg, #4285f4, #5ac8fa);
   border-radius: 1px;
 }
 
 /* Academic link styling - completely disable any scaling or size changes */
 a {
-  color: #007aff;
+  color: #4285f4;
   text-decoration: none;
   transition: color 0.2s ease !important;
   transform: none !important;
@@ -283,7 +304,7 @@ a {
 }
 
 a:hover {
-  color: #0051d5;
+  color: #1a73e8;
   text-decoration: none;
   transform: none !important;
   scale: none !important;
@@ -339,6 +360,81 @@ section li:before {
 section p {
   margin: 20px 0;
   text-align: justify;
+  line-height: 1.8;
+}
+
+/* Publication card containers */
+.publication-item {
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid rgba(226, 232, 240, 0.5);
+  border-radius: 8px;
+  padding: 20px;
+  margin: 25px 0;
+  transition: all 0.2s ease;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.publication-item:hover {
+  background: rgba(255, 255, 255, 0.9);
+  border-color: rgba(66, 133, 244, 0.2);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* Publication entries styling */
+section h4 {
+  font-size: 17px;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin: 0 0 8px 0;
+  line-height: 1.4;
+}
+
+/* Publication item containers */
+section h4 + p {
+  margin-top: 8px;
+  margin-bottom: 0;
+  font-size: 15px;
+  color: #4a5568;
+  line-height: 1.6;
+}
+
+/* Author names and venue styling */
+section em {
+  font-style: italic;
+  color: #2d3748;
+}
+
+/* Emphasis for user's name in author lists */
+section em[title="Author name"] {
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+/* Style for user's name when wrapped in emphasis tags */
+section p em {
+  font-style: italic;
+  color: #2d3748;
+}
+
+/* Better highlighting for Ramtin Keramati name in publications */
+section p:contains("Ramtin Keramati") {
+  /* This will be handled by the emphasis in markdown */
+}
+
+/* Better spacing for publication sections */
+section hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(90deg, transparent 0%, #e2e8f0 20%, #e2e8f0 80%, transparent 100%);
+  margin: 50px 0;
+}
+
+/* Improve readability of main content paragraphs */
+.profile-info p {
+  font-size: 16px;
+  line-height: 1.7;
+  margin: 15px 0;
+  color: #374151;
 }
 
 /* Hide generic footer styling */
@@ -606,51 +702,51 @@ footer:not(.social-footer) {
 /* PDF Link Buttons for Academic Papers */
 .pdf-link {
   display: inline-block;
-  background: #28a745;
+  background: #34a853;
   color: white !important;
-  padding: 4px 10px;
+  padding: 5px 12px;
   font-size: 11px;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  border-radius: 4px;
+  border-radius: 6px;
   text-decoration: none;
-  margin-left: 8px;
+  margin-left: 10px;
   transition: all 0.2s ease;
-  box-shadow: 0 1px 3px rgba(40, 167, 69, 0.3);
+  box-shadow: 0 2px 4px rgba(52, 168, 83, 0.25);
   vertical-align: middle;
 }
 
 .pdf-link:hover {
-  background: #218838;
+  background: #2d7d32;
   color: white !important;
   text-decoration: none;
   transform: translateY(-1px);
-  box-shadow: 0 2px 6px rgba(40, 167, 69, 0.4);
+  box-shadow: 0 4px 8px rgba(52, 168, 83, 0.3);
 }
 
 /* Blue Link Button for External Links */
 .link-button {
   display: inline-block;
-  background: #007aff;
+  background: #4285f4;
   color: white !important;
-  padding: 4px 10px;
+  padding: 5px 12px;
   font-size: 11px;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  border-radius: 4px;
+  border-radius: 6px;
   text-decoration: none;
-  margin-left: 8px;
+  margin-left: 10px;
   transition: all 0.2s ease;
-  box-shadow: 0 1px 3px rgba(0, 122, 255, 0.3);
+  box-shadow: 0 2px 4px rgba(66, 133, 244, 0.25);
   vertical-align: middle;
 }
 
 .link-button:hover {
-  background: #0051d5;
+  background: #1a73e8;
   color: white !important;
   text-decoration: none;
   transform: translateY(-1px);
-  box-shadow: 0 2px 6px rgba(0, 122, 255, 0.4);
+  box-shadow: 0 4px 8px rgba(66, 133, 244, 0.3);
 }

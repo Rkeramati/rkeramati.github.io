@@ -41,7 +41,7 @@ Hossein Nejat Pishkenari, *Ramtin Keramati*, Ahmad Abdi, Majid Minary-Jolandan
 
 ## Workshop Publications
 
-#### Off-policy Policy Evaluation Under Unobserved Confounding <a href="https://causalrlworkshop.github.io/program/cldm_7.html" class="pdf-link" target="_blank">Link</a>  
+#### Off-policy Policy Evaluation Under Unobserved Confounding <a href="https://causalrlworkshop.github.io/program/cldm_7.html" class="pdf-link" target="_blank">PDF</a>  
 *ICLR 2020: Causal Learning For Decision Making*  
 Hongseok Namkoong <sup> * </sup>, *Ramtin Keramati* <sup> * </sup>, Steve Yadlowsky <sup> * </sup>, Emma Brunskill  
 
@@ -49,7 +49,7 @@ Hongseok Namkoong <sup> * </sup>, *Ramtin Keramati* <sup> * </sup>, Steve Yadlow
 *NeurIPS 2019: Safety and Robustness in Decision Making Workshop*  
 Alext Tamkin, *Ramtin Keramati*, Chris Dann, Emma Brunskill  
 
-#### Strategic Object Oriented Reinforcement Learning <a href="https://arxiv.org/abs/1806.00175" class="pdf-link" target="_blank">arXiv</a>  
+#### Strategic Object Oriented Reinforcement Learning <a href="https://arxiv.org/abs/1806.00175" class="pdf-link" target="_blank">PDF</a>  
 *ICML 2018: Exploration in Reinforcement Learning Workshop*  
 *Ramtin Keramati*, Jay Whang, Patrick Cho, Emma Brunskill  
 
@@ -61,6 +61,6 @@ Evan Liu, *Ramtin Keramati*, Kelvin Guu, Sudarshan Seshadri, Panupong Pasupat, P
 
 ## Ph.D. Dissertation
 
-**Title:** Off-Policy Evaluation and Learning in Reinforcement Learning under Unobserved Confounding <a href="https://stacks.stanford.edu/file/dd732zb2339/Dissertation-augmented.pdf" class="link-button" target="_blank">LINK</a>  
+**Title:** Off-Policy Evaluation and Learning in Reinforcement Learning under Unobserved Confounding <a href="https://stacks.stanford.edu/file/dd732zb2339/Dissertation-augmented.pdf" class="link-button" target="_blank">Link</a>  
 *Stanford University, June 2021*  
 Advisor: [Emma Brunskill](https://cs.stanford.edu/people/ebrun/)  
