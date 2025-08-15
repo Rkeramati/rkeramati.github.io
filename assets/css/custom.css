@@ -205,17 +205,26 @@ header {
 }
 
 .profile-info p {
-  font-size: 14px;
-  line-height: 1.6;
-  margin: 8px 0;
-  color: #555;
+  font-size: 15px;
+  line-height: 1.7;
+  margin: 12px 0;
+  color: #444;
+}
+
+.profile-info p:first-of-type {
+  margin-top: 0;
 }
 
 .profile-info .email {
   font-size: 15px;
   color: #007aff;
   font-weight: 500;
-  margin-top: 15px;
+  margin-top: 20px;
+}
+
+.profile-info .email a {
+  color: #007aff;
+  text-decoration: none;
 }
 
 /* Hide old navigation in header since we now have top navbar */
