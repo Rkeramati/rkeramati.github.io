@@ -117,6 +117,7 @@ body {
   margin-top: 20px;
   margin-bottom: 20px;
   backdrop-filter: blur(10px);
+  overflow: hidden;
 }
 
 /* Academic header styling */
@@ -127,7 +128,6 @@ header {
   padding: 40px 40px 30px 40px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.08);
   margin-bottom: 40px;
-  border-radius: 16px 16px 0 0;
 }
 
 /* Simple header for non-main pages */
@@ -486,4 +486,76 @@ footer {
 /* Hide any GitHub Pages attribution */
 .view {
   display: none !important;
+}
+
+/* Social Footer */
+.social-footer {
+  margin-top: auto;
+  padding: 30px 40px 40px 40px;
+  text-align: center;
+}
+
+.footer-separator {
+  border: none;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(0, 0, 0, 0.1), transparent);
+  margin: 0 0 25px 0;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 35px;
+  align-items: center;
+}
+
+.social-link {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 20px;
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 12px;
+  text-decoration: none;
+  color: #555;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  backdrop-filter: blur(10px);
+}
+
+.social-link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  background: rgba(255, 255, 255, 0.9);
+  color: #007aff;
+  text-decoration: none;
+}
+
+.social-link svg {
+  transition: all 0.3s ease;
+}
+
+.social-link:hover svg {
+  transform: scale(1.1);
+}
+
+/* Mobile responsiveness for social footer */
+@media (max-width: 768px) {
+  .social-links {
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .social-link {
+    width: 100%;
+    max-width: 200px;
+    justify-content: center;
+  }
+  
+  .social-footer {
+    padding: 25px 20px;
+  }
 }
