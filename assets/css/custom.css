@@ -483,10 +483,12 @@ footer:not(.social-footer) {
 
 /* Social Footer */
 .social-footer {
-  margin-top: auto;
-  padding: 30px 0;
+  margin-top: 60px;
+  padding: 40px 0;
   text-align: center;
   display: block !important;
+  background: rgba(249, 249, 251, 0.8);
+  border-top: 1px solid rgba(0, 0, 0, 0.06);
 }
 
 .footer-separator {
@@ -499,25 +501,25 @@ footer:not(.social-footer) {
 .social-links {
   display: flex;
   justify-content: center;
-  gap: 35px;
+  gap: 25px;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .social-link {
   display: flex;
   align-items: center;
   gap: 8px;
-  padding: 12px 20px;
-  background: rgba(255, 255, 255, 0.7);
-  border-radius: 12px;
+  padding: 10px 16px;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 8px;
   text-decoration: none;
   color: #555;
-  font-size: 14px;
+  font-size: 13px;
   font-weight: 500;
-  transition: all 0.3s ease;
-  border: 1px solid rgba(0, 0, 0, 0.06);
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
-  backdrop-filter: blur(10px);
+  transition: all 0.2s ease;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
 }
 
 .social-link:hover {
@@ -539,17 +541,15 @@ footer:not(.social-footer) {
 /* Mobile responsiveness for social footer */
 @media (max-width: 768px) {
   .social-links {
-    flex-direction: column;
     gap: 15px;
   }
   
   .social-link {
-    width: 100%;
-    max-width: 200px;
-    justify-content: center;
+    font-size: 12px;
+    padding: 8px 12px;
   }
   
   .social-footer {
-    padding: 25px 20px;
+    padding: 30px 20px;
   }
 }
