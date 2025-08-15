@@ -117,7 +117,6 @@ body {
   margin-top: 20px;
   margin-bottom: 20px;
   backdrop-filter: blur(10px);
-  overflow: hidden;
 }
 
 /* Academic header styling */
@@ -125,9 +124,10 @@ header {
   position: static;
   float: none;
   width: 100%;
-  padding: 40px 40px 30px 40px;
+  padding: 40px 30px 30px 30px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.08);
   margin-bottom: 40px;
+  border-radius: 16px 16px 0 0;
 }
 
 /* Simple header for non-main pages */
@@ -235,7 +235,7 @@ section {
   float: none;
   position: static;
   margin: 0;
-  padding: 0 40px 40px 40px;
+  padding: 0 30px 30px 30px;
   border: none;
   font-size: 16px;
   line-height: 1.8;
@@ -478,8 +478,8 @@ footer a:hover {
   }
 }
 
-/* Hide any theme-generated footer content */
-footer {
+/* Hide any theme-generated footer content but not our social footer */
+footer:not(.social-footer) {
   display: none !important;
 }
 
@@ -491,8 +491,10 @@ footer {
 /* Social Footer */
 .social-footer {
   margin-top: auto;
-  padding: 30px 40px 40px 40px;
+  padding: 30px 30px 30px 30px;
   text-align: center;
+  border-radius: 0 0 16px 16px;
+  display: block !important;
 }
 
 .footer-separator {
