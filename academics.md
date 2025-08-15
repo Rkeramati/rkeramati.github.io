@@ -6,6 +6,10 @@ layout: default
 
 ## Conference Publications
 
+#### Identification of Subgroups With Similar Benefits in Off-Policy Policy Evaluation <a href="https://proceedings.mlr.press/v174/keramati22a/keramati22a.pdf" class="pdf-link" target="_blank">PDF</a>  
+Conference on Health, Inference, and Learning, *CHIL 2022*
+*Ramtin Keramati*, Omer Gottesman, Leo Anthony Celi, Finale Doshi-Velez, Emma Brunskill  
+
 #### Off-policy Policy Evaluation For Sequential Decisions Under Unobserved Confounding <a href="https://arxiv.org/pdf/2003.05623.pdf" class="pdf-link" target="_blank">PDF</a>  
 Thirty-fourth Conference on Neural Information Processing Systems, *NeurIPS 2020*  
 Hongseok Namkoong <sup> * </sup>, *Ramtin Keramati* <sup> * </sup>, Steve Yadlowsky <sup> * </sup>, Emma Brunskill  
@@ -15,26 +19,22 @@ The Thirty-Fourth AAAI Conference on Artificial Intelligence, *AAAI 2020, New Yo
 *Ramtin Keramati*, Chris Dann, Alex Tamkin, Emma Brunskill  
 
 #### Value Driven Representations for Reinforcement Learning <a href="https://arxiv.org/pdf/2004.01223.pdf" class="pdf-link" target="_blank">PDF</a>  
-User Modelling, Adaptation and Personalization (UMAP) 2019, (23% acceptance rate)  
+User Modelling, Adaptation and Personalization, *UMAP 2019*
 *Ramtin Keramati*, Emma Brunskill  
-
-#### Identification of Subgroups With Similar Benefits in Off-Policy Policy Evaluation  
-Under submission: Thirty-eighth International Conference on Machine Learning, *ICML 2021*  
-*Ramtin Keramati*, Omer Gottesman, Finale Doshi-Velez, Emma Brunskill  
 
 ---
 
 ## Journal Publications
 
-#### Significant contribution of small icebergs to the freshwater budget in Greenland fjords [[link]](https://www.nature.com/articles/s43247-020-00032-3)  
+#### Significant contribution of small icebergs to the freshwater budget in Greenland fjords <a href="https://www.nature.com/articles/s43247-020-00032-3" class="pdf-link" target="_blank">PDF</a>   
 *Communications Earth & Environment*, Nature Publishing Group  
 Soroush Rezvanbehbahani, Leigh A Stearns, *Ramtin Keramati*, Siddharth Shankar, CJ van der Veen  
 
-#### Dynamics of the nanoneedle probe in trolling mode AFM [[link]](http://iopscience.iop.org/article/10.1088/0957-4484/26/20/205702/meta)  
+#### Dynamics of the nanoneedle probe in trolling mode AFM <a href="http://iopscience.iop.org/article/10.1088/0957-4484/26/20/205702/meta" class="pdf-link" target="_blank">PDF</a>   
 *Journal of Nanotechnology*  
 Ahmad Abdi, Hossein Nejat Pishkenari, *Ramtin Keramati*, Majid Minary-Jolandan  
 
-#### Molecular dynamics modeling of a nanomaterials-water surface interaction [[link]](https://aip.scitation.org/doi/abs/10.1063/1.4947189)  
+#### Molecular dynamics modeling of a nanomaterials-water surface interaction <a href="https://aip.scitation.org/doi/abs/10.1063/1.4947189" class="pdf-link" target="_blank">PDF</a>   
 *Journal of Applied Physics*  
 Hossein Nejat Pishkenari, *Ramtin Keramati*, Ahmad Abdi, Majid Minary-Jolandan  
 
